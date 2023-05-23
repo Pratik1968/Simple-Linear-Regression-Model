@@ -1,2 +1,2 @@
 # Simple-Linear-Regression-Model
-Simple machine learning model that is made with help of pytorch
+Simple machine learning model which is made with help of pytorch
